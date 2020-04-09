@@ -6,6 +6,14 @@
     <language>fr</language>
      <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Quel est l’impact du coronavirus sur l’activité e-commerce ?</title>
+    <link>https://www.prestashop.com/fr/blog/infographie-e-commerce-covid-19</link>
+    <description>Le 24 mars dernier, PrestaShop avait invité les membres de son écosystème à participer à un sondage concernant l’impact </description>
+     <pubDate>Mon, 06 Apr 2020 19:10:49 +0200</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/infographie-e-commerce-covid-19</guid>
+  </item>
+  <item>
     <title>Crise sanitaire : quelques exemples d’initiatives e-commerce solidaires</title>
     <link>https://www.prestashop.com/fr/blog/initiatives-e-commerce-solidaires</link>
     <description>Alors que la période de confinement liée à la crise sanitaire actuelle tend à s’étendre sur une durée indéterminée, des </description>
@@ -76,14 +84,6 @@
      <pubDate>Thu, 12 Mar 2020 15:15:05 +0100</pubDate>
  <dc:creator>Loïc Ferrier</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/fr/blog/vendre-b2b-erp-migration-prestashop</guid>
-  </item>
-  <item>
-    <title>Évolution des femmes dans le milieu numérique</title>
-    <link>https://www.prestashop.com/fr/blog/femmes-milieu-numerique</link>
-    <description>La Journée internationale de la Femme nous donne l’occasion de faire un état des lieux de la situation des femmes dans l’économie digitale.</description>
-     <pubDate>Tue, 10 Mar 2020 15:39:01 +0100</pubDate>
- <dc:creator>L&#039;équipe PrestaShop</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/blog/femmes-milieu-numerique</guid>
   </item>
   </channel>
 </rss>

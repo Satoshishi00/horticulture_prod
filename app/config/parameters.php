@@ -1,11 +1,11 @@
 <?php return array (
   'parameters' => 
   array (
-    'database_host' => 'localhost',
-    'database_port' => '8889',
+    'database_host' => 'yliesxyznasato.mysql.db',
+    'database_port' => '',
     'database_name' => 'yliesxyznasato',
-    'database_user' => 'root',
-    'database_password' => 'root',
+    'database_user' => 'yliesxyznasato',
+    'database_password' => '2020isComming',
     'database_prefix' => 'ps_',
     'database_engine' => 'InnoDB',
     'mailer_transport' => 'smtp',
