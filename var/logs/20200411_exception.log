@@ -147,3 +147,4 @@
 *ERROR* 	v1.7.6.4	2020/04/11 - 11:20:35: Link to database cannot be established: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 127 in file classes/db/DbPDO.php
 *ERROR* 	v1.7.6.4	2020/04/11 - 11:21:35: Link to database cannot be established: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 127 in file classes/db/DbPDO.php
 *ERROR* 	v1.7.6.4	2020/04/11 - 11:22:35: Link to database cannot be established: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.4	2020/04/11 - 11:23:37: Link to database cannot be established: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 127 in file classes/db/DbPDO.php
